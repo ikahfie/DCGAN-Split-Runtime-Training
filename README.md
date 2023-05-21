@@ -1,4 +1,4 @@
-# Poor-Spec-DCGAN
+# DCGAN-Split-Runtime-Training
 ## Description
 A dcgan implementation to be trained with low VRAM GPU by exploiting training checkpoints per epoch and shell script.
 Based on the [Pytorch DCGAN tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
